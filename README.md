@@ -16,7 +16,7 @@
 ![后台部署题目](https://github.com/user-attachments/assets/9ef9f074-a3d0-41ce-8b69-e90aafad8fb5)
 题目管理
 ![后台部署题目](https://github.com/user-attachments/assets/30d3f00e-3f04-43ba-9376-5e804cc5afb3)
-管理员发布完题目后普通用户登录看到的界面
+管理员发布完题目后普通用户登录看到的界面（公告面板的东西可在index.php中更改）
 ![答题界面](https://github.com/user-attachments/assets/0dd62e90-9075-49d4-9be3-4322edbdd046)
 ![答题界面](https://github.com/user-attachments/assets/8b00a08b-f4d4-494d-8e75-513296d18460)
 ![用户排名](https://github.com/user-attachments/assets/656c8644-eb36-4909-ba9e-149fedcbf94d)
