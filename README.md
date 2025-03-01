@@ -3,13 +3,9 @@
 简单部署
 搭建前先下载个小皮面板
 源码下载好先上传至www目录下
-      www
-       |
-       ctf
-       |
-index.php、db.php、test.sql
 再打开数据库导入test.sql
 最后把db.php里的数据库配置信息修改为你自己的数据库名、账号和密码
+
 ![图片](https://github.com/user-attachments/assets/9daf6936-099e-45e6-b2b8-99c567441e73)
 
 题目部署
