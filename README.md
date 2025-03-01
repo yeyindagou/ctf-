@@ -17,7 +17,6 @@
 题目管理
 ![后台部署题目](https://github.com/user-attachments/assets/30d3f00e-3f04-43ba-9376-5e804cc5afb3)
 管理员发布完题目后普通用户登录看到的界面
-![后台部署题目](https://github.com/user-attachments/assets/b2ef80e8-a468-4683-ad61-4a63fd239cca)
-![后台部署题目](https://github.com/user-attachments/assets/56714086-e738-4270-8225-fd8d0751d923)
-还有用户排名
+![答题界面](https://github.com/user-attachments/assets/0dd62e90-9075-49d4-9be3-4322edbdd046)
+![答题界面](https://github.com/user-attachments/assets/8b00a08b-f4d4-494d-8e75-513296d18460)
 ![用户排名](https://github.com/user-attachments/assets/656c8644-eb36-4909-ba9e-149fedcbf94d)
